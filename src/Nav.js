@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import "./Nav.css";
-import Youtube from "react-youtube";
 
 function Nav() {
   const [show, handleShow] = useState(false);
